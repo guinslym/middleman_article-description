@@ -1,6 +1,8 @@
 # MiddlemanArticle::Description
+##This gem is in Development
 
-TODO: Write a gem description
+A Middleman extension for setting the page description.
+
 
 ## Installation
 
